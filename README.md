@@ -8,14 +8,13 @@
 ---
 
 ### 🔧 Projects I Build for Fun
-- 🛸 A bot that reminds my clan when Xûr is selling trash again
+- 🛸 [Xûr Reminder Bot] (https://github.com/Hofynea/xur-reminder-bot.git) - reminds my clan when Xûr is selling trash again
 - 📈 BJJ roll tracker (coming soon™)
 
 ---
 
 ### 🌐 H Elsewhere
 - [Destiny Tracker](https://destinytracker.com/destiny-2/profile/)  
-- [Xûr Rage Log (classified)]()
 
 ---
 
