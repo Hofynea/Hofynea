@@ -7,14 +7,14 @@
 
 ---
 
-### 🔧 Projects I Build for Fun
-- 🛸 [Xûr Reminder Bot] (https://github.com/Hofynea/xur-reminder-bot.git) - reminds my clan when Xûr is selling trash again
-- 📈 BJJ roll tracker (coming soon™)
+### Projects I Build for Fun
+- [Xûr Reminder Bot](https://github.com/Hofynea/xur-reminder-bot.git) - reminds my clan when Xûr is selling trash again
+- BJJ roll tracker (coming soon™)
 
 ---
 
-### 🌐 H Elsewhere
-- [Destiny Tracker](https://destinytracker.com/destiny-2/profile/)  
+### H Elsewhere
+- [Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018440497979/overview)  
 
 ---
 
