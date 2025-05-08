@@ -8,8 +8,11 @@
 ---
 
 ### Projects I Build for Fun
-- [Xûr Reminder Bot](https://github.com/Hofynea/xur-reminder-bot.git) - reminds my clan when Xûr is selling trash again
+- `Xûr Reminder Bot` – Discord bot that reminds my clan when Xûr is selling trash again. *(private – available upon request)*
 - BJJ roll tracker (coming soon™)
+- `fantasy-battle-simulator` – Fantasy-themed Java battle simulator with XP, levels, and strategy.
+- `memo2bus` – Java-based city bus scheduling simulator with route and UI logic. *(private – available upon request)*
+- `code-a-mon-simulator` – Turn-based creature battle game in Java, inspired by Pokémon. *(private – available upon request)*
 
 ---
 
