@@ -8,11 +8,12 @@
 ---
 
 ### Projects I Build for Fun
-- `Xûr Reminder Bot` – Discord bot that reminds my clan when Xûr is selling trash again. *(private – available upon request)*
-- BJJ roll tracker (coming soon™)
+- 🔒 `L@S Data Dictionary Web Interface` – Web-based interface for navigating educational data dictionaries with NLP-powered search. *(capstone project built as part of a 5-person team at ASU • private – available upon request)*
+- 🔒 `Xûr Reminder Bot` – Discord bot that reminds my clan when Xûr is selling trash again. *(private – available upon request)*
+- `BJJ roll tracker` *(coming soon™)*
 - `fantasy-battle-simulator` – Fantasy-themed Java battle simulator with XP, levels, and strategy.
-- `memo2bus` – Java-based city bus scheduling simulator with route and UI logic. *(private – available upon request)*
-- `code-a-mon-simulator` – Turn-based creature battle game in Java, inspired by Pokémon. *(private – available upon request)*
+- 🔒 `memo2bus` – Java-based city bus scheduling simulator with route and UI logic. *(private – available upon request)*
+- 🔒 `code-a-mon-simulator` – Turn-based creature battle game in Java, inspired by Pokémon. *(private – available upon request)*
 
 ---
 
