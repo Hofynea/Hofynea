@@ -9,8 +9,8 @@
 
 ### Projects I Build for Fun
 - `Buildwise` — Stop guessing what your house will really cost. Upload your builder's pricing sheet, enter your down payment and ZIP code, and get an instant, accurate monthly payment estimate. 👉 [Live demo](https://buildwise-9ymn.onrender.com)
-- `csv-cleaner-lite` — Web-based tool for uploading, previewing, and cleaning CSV files with a one-click Streamline interface. 👉 [Live demo](https://csv-cleaner-lite-4adhqmytxndra7fhsyyrew.streamlit.app)
 - `remind-me-lite` — Minimalist reminder web app that lets you schedule and send email reminders. 👉 [Live demo](https://remind-me-lite.onrender.com)
+- `csv-cleaner-lite` — Web-based tool for uploading, previewing, and cleaning CSV files with a one-click Streamline interface. 👉 [Live demo](https://csv-cleaner-lite-4adhqmytxndra7fhsyyrew.streamlit.app)
 - 🔒 `L@S Data Dictionary Web Interface` – Web-based interface for navigating educational data dictionaries with NLP-powered search. *(capstone project built as part of a 5-person team at ASU • private – available upon request)*
 - 🔒 `Xûr Reminder Bot` – Discord bot that reminds my clan when Xûr is selling trash again. *(private – available upon request)*
 - `BJJ roll tracker` *(coming soon™)*
